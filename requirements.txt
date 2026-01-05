@@ -1,4 +1,5 @@
 Flask==2.3.3
+gunicorn
 Pillow==10.0.1
 opencv-python-headless==4.8.1.78
 easyocr==1.7.0
